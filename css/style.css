@@ -1,0 +1,37 @@
+*{
+	margin:  0px auto;
+	padding: 0px auto;
+	box-sizing: border-box;
+}
+.container{
+	margin: 20px 5%;
+	text-align: center;
+}
+
+.backPage{
+	background-image: url('../img/imc1.jpg');
+	background-repeat: no-repeat;
+	background-size: auto 120%;
+	background-position-y: -50px;
+	background-position-x: 300px;
+	border: 2px outset #ccc;
+	border-radius: 10px;
+	padding: 85px;
+}
+
+label,h1,button{
+	background-color: #00CC00;
+	font-family: Arial ,Helvetica, sans-serif ;
+	
+}
+input{
+	background-color: #FFCC00;
+}
+
+
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #dcdcdc ;
+	
+}
